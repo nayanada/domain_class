@@ -177,3 +177,7 @@ if __name__ == "__main__":
 
 
 # Best parameters for lgbm: {"learning_rate": 0.17528711814661266, "max_depth": 5, "n_estimators": 50, "num_leaves": 127, "preprocessing": "minmax"}
+# Best parameters for catboost: {"depth": 10, "iterations": 100, "learning_rate": 0.233387197467268, "preprocessing": "standard"}
+# Best parameters for svm: {"C": 8.864809889251712, "gamma": 1.783460164495912, "preprocessing": "standard"}
+# Best parameters for logistic_regression: {"C": 50.55202347085015, "preprocessing": "minmax"}
+# Best parameters for random_forest: {"max_depth": 20, "n_estimators": 200, "preprocessing": "standard"}
